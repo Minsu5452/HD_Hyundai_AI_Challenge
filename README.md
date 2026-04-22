@@ -1,23 +1,28 @@
 # 선박 대기시간 예측 | HD Hyundai AI Challenge
 
-선박 대기시간 예측 문제를 다룬 산업형 competition repository입니다. 예선에서는 boosting ensemble로 2위를 기록했고, 본선에서는 transformer 기반 접근까지 확장해 오프라인 발표를 진행했습니다.
+> 산업형 예측 문제에서 boosting ensemble과 transformer 실험을 모두 수행하고, 본선 발표까지 이어간 프로젝트입니다.
 
-## 이 저장소에서 보이는 것
+## 한눈에 보기
 
-- 산업 데이터 문제에서 feature engineering과 ensemble 설계
-- online leaderboard 단계와 offline final stage를 모두 경험한 프로젝트 운영
-- regression과 time-series 성격이 섞인 문제를 다룬 실전 경험
+| 항목 | 내용 |
+| --- | --- |
+| 유형 | Competition solution |
+| 결과 | 예선 2위 / 330팀, 본선 6위 / 11팀 |
+| 문제 | 선박 대기시간 회귀 예측 |
+| 핵심 접근 | feature engineering, boosting ensemble, transformer 확장 |
+| 이 저장소가 증명하는 것 | 산업형 예측 문제 해결력과 발표 · 협업 경험 |
 
-## 결과
-
-- Preliminary 2nd / 330 teams
-- Final 6th / 11 teams
-
-## 제가 맡은 역할
+## 제가 맡은 일
 
 - 예선 단계에서 feature engineering을 주도했습니다.
 - XGBoost, LightGBM, CatBoost 기반 ensemble 전략을 설계했습니다.
 - 본선에서는 transformer 실험과 발표 준비를 맡았습니다.
+
+## 이 저장소에서 읽히는 강점
+
+- 산업 데이터 문제에서 feature engineering과 ensemble 설계를 수행한 경험이 보입니다.
+- online leaderboard 단계와 offline final stage를 모두 경험한 프로젝트 운영 감각이 드러납니다.
+- regression과 time-series 성격이 섞인 문제를 실전적으로 다뤘습니다.
 
 ## 저장소 구성
 
