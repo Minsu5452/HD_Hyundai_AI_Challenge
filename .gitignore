@@ -1,0 +1,16 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+data/
+submissions/
+models/
+outputs/
+
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+*.parquet
+*.html
